@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/rekeningku/Documents/Projects/Repositories/FlutterBlocCounter/rxvms_flutter/ios/Runner/AppDelegate.m \
+  /Users/rekeningku/Documents/Projects/Repositories/FlutterBlocCounter/rxvms_flutter/ios/Runner/AppDelegate.h \
+  /Users/rekeningku/Documents/Projects/Repositories/FlutterBlocCounter/rxvms_flutter/ios/Flutter/Flutter.framework/Modules/module.modulemap \
+  /Users/rekeningku/Documents/Projects/Repositories/FlutterBlocCounter/rxvms_flutter/ios/Flutter/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/rekeningku/Documents/Projects/Repositories/FlutterBlocCounter/rxvms_flutter/ios/Flutter/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/rekeningku/Documents/Projects/Repositories/FlutterBlocCounter/rxvms_flutter/ios/Flutter/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/rekeningku/Documents/Projects/Repositories/FlutterBlocCounter/rxvms_flutter/ios/Flutter/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/rekeningku/Documents/Projects/Repositories/FlutterBlocCounter/rxvms_flutter/ios/Flutter/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/rekeningku/Documents/Projects/Repositories/FlutterBlocCounter/rxvms_flutter/ios/Flutter/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/rekeningku/Documents/Projects/Repositories/FlutterBlocCounter/rxvms_flutter/ios/Flutter/Flutter.framework/Headers/FlutterViewController.h \
+  /Users/rekeningku/Documents/Projects/Repositories/FlutterBlocCounter/rxvms_flutter/ios/Flutter/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/rekeningku/Documents/Projects/Repositories/FlutterBlocCounter/rxvms_flutter/ios/Flutter/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/rekeningku/Documents/Projects/Repositories/FlutterBlocCounter/rxvms_flutter/ios/Flutter/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/rekeningku/Documents/Projects/Repositories/FlutterBlocCounter/rxvms_flutter/ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/rekeningku/Documents/Projects/Repositories/FlutterBlocCounter/rxvms_flutter/ios/Flutter/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/rekeningku/Documents/Projects/Repositories/FlutterBlocCounter/rxvms_flutter/ios/Flutter/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/rekeningku/Documents/Projects/Repositories/FlutterBlocCounter/rxvms_flutter/ios/Flutter/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/rekeningku/Documents/Projects/Repositories/FlutterBlocCounter/rxvms_flutter/ios/Flutter/Flutter.framework/Headers/Flutter.h \
+  /Users/rekeningku/Documents/Projects/Repositories/FlutterBlocCounter/rxvms_flutter/ios/Runner/GeneratedPluginRegistrant.h
